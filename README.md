@@ -2,6 +2,8 @@
 
 Repository used to host all the **maintained** source code linked to https://vincentcalisto.com/
 
+<img style="display: block; margin-left: auto;margin-right: auto;" src="https://raw.githubusercontent.com/aredhele33/Articles/main/Press/drawing_article_doodle_hello.png" alt="Banner"/>
+
 ### What can I find in this project ?
 
 You will find many small C++ projects showcasing one particular feature, algorithm or code snippet for
@@ -11,8 +13,8 @@ List of available examples :
 
 | Article      | Sources                           |
 |--------------|-----------------------------------|
-| Coming soon. | <a href=""> Stack allocator  </a> |
-| Coming soon. | <a href=""> String identifier</a> |
+| Coming soon. | <a href="https://github.com/aredhele33/Articles/tree/main/Article_StackAllocator"> Stack allocator  </a> |
+| Coming soon. | <a href="https://github.com/aredhele33/Articles/tree/main/Article_StringIdentifier"> String identifier</a> |
 
 ### How can I build this project ?
 
