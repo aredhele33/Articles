@@ -2,9 +2,9 @@
 
 Repository used to host all the **maintained** source code linked to https://vincentcalisto.com/
 
-<div style="text-align: center">
-<img style="display: block; margin-left: auto;margin-right: auto;" src="https://raw.githubusercontent.com/aredhele33/Articles/main/Press/drawing_article_doodle_hello.png" alt="Banner"/>
-</div>
+<p align="center">
+<img src="https://raw.githubusercontent.com/aredhele33/Articles/main/Press/drawing_article_doodle_hello.png" alt="Banner"/>
+</p>
 
 ### What can I find in this project ?
 
